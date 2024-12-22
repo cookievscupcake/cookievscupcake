@@ -1,4 +1,4 @@
-- 👀 I am a UI Designer who likes CSS.
+- 👀 I am a UI designer who likes CSS.
 
 <!---
 cookievscupcake/cookievscupcake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
